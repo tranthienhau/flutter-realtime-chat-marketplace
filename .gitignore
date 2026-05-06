@@ -1,0 +1,17 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.idea/
+*.iml
+.vscode/
+ios/
+android/
+linux/
+macos/
+windows/
+web/
+.env
+*.g.dart
+*.freezed.dart
