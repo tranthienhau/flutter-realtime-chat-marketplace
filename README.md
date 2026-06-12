@@ -2,6 +2,16 @@
 
 Real-time buyer-seller chat for marketplace apps. Flutter + Riverpod + Supabase Realtime.
 
+## Demo
+
+Real captures from the running app on the iOS Simulator (no mockups). See [FLOW.md](FLOW.md) for how they were generated.
+
+| Threads list | Conversation | Composer |
+| --- | --- | --- |
+| ![Threads](screenshots/01-threads.png) | ![Conversation](screenshots/02-conversation.png) | ![Composer](screenshots/03-composer.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Features
 
 - **Per-listing thread model**: each `(listing, buyer, seller)` tuple is one thread (unique constraint)
